@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # atheer
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# atheer
+>>>>>>> 1d838e66f69efb99ff7486074ffd791eb7c7360a
